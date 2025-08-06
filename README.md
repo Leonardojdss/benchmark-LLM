@@ -112,11 +112,8 @@ jupyter notebook
 ### Principais Funcionalidades
 
 #### 1. Teste de Latência
-```python
-# Exemplo de uso da função de teste de latência
-message = "Create a new text for me with theme about the future of technology, content 200 characters"
-execution = gpt_completation_time_response("gpt-4.1-mini", message)
-```
+
+
 
 #### 2. Resolução de Questões
 ```python
